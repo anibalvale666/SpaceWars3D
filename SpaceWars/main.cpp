@@ -1,5 +1,5 @@
 #define GLUT_DISABLE_ATEXIT_HACK
-#include <GL/glut.h>
+#include "GL/glut.h"
 #include <windows.h>
 #include <math.h>
 #include <stdlib.h>

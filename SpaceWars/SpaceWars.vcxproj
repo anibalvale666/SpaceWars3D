@@ -81,7 +81,7 @@
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalLibraryDirectories>C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Fab\Documents\GitHub\EDA-2019-01\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\EDA-2019-01\OpenGL\freeglut\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>freeglut.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -96,7 +96,7 @@
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalLibraryDirectories>C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Fab\Documents\GitHub\EDA-2019-01\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\EDA-2019-01\OpenGL\freeglut\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>freeglut.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -115,7 +115,7 @@
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalLibraryDirectories>C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Fab\Documents\GitHub\EDA-2019-01\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\EDA-2019-01\OpenGL\freeglut\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>freeglut.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -134,7 +134,7 @@
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalLibraryDirectories>C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Fab\Documents\GitHub\EDA-2019-01\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\EDA-2019-01\OpenGL\freeglut\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib;C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>freeglut.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>

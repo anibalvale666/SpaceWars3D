@@ -1,0 +1,95 @@
+﻿  main.cpp
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\CXBOXController.h(5,1): warning C4005:  'WIN32_LEAN_AND_MEAN': macro redefinition
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\include\GL\freeglut_std.h(58): message :  see previous definition of 'WIN32_LEAN_AND_MEAN'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(25,1): warning C4005:  'XINPUT_GAMEPAD_START': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(85): message :  see previous definition of 'XINPUT_GAMEPAD_START'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(26,1): warning C4005:  'XINPUT_GAMEPAD_BACK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(86): message :  see previous definition of 'XINPUT_GAMEPAD_BACK'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(27,1): warning C4005:  'XINPUT_GAMEPAD_LEFT_THUMB': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(87): message :  see previous definition of 'XINPUT_GAMEPAD_LEFT_THUMB'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(28,1): warning C4005:  'XINPUT_GAMEPAD_RIGHT_THUMB': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(88): message :  see previous definition of 'XINPUT_GAMEPAD_RIGHT_THUMB'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(29,1): warning C4005:  'XINPUT_GAMEPAD_LEFT_SHOULDER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(89): message :  see previous definition of 'XINPUT_GAMEPAD_LEFT_SHOULDER'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(30,1): warning C4005:  'XINPUT_GAMEPAD_RIGHT_SHOULDER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(90): message :  see previous definition of 'XINPUT_GAMEPAD_RIGHT_SHOULDER'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(31,1): warning C4005:  'XINPUT_GAMEPAD_A': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(91): message :  see previous definition of 'XINPUT_GAMEPAD_A'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(32,1): warning C4005:  'XINPUT_GAMEPAD_B': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(92): message :  see previous definition of 'XINPUT_GAMEPAD_B'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(33,1): warning C4005:  'XINPUT_GAMEPAD_X': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(93): message :  see previous definition of 'XINPUT_GAMEPAD_X'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(34,1): warning C4005:  'XINPUT_GAMEPAD_Y': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\XInput.h(94): message :  see previous definition of 'XINPUT_GAMEPAD_Y'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(133,35): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(133,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(134,35): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(134,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(135,35): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(135,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(136,35): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(136,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(315,18): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(315,13): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(319,40): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(320,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(320,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(321,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(321,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(322,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(322,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(323,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(323,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(327,28): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(328,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(328,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(329,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(329,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(334,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(334,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(335,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(335,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(339,35): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(340,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(340,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(341,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(341,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(342,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(342,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(346,35): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(347,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(347,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(348,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(348,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(349,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(349,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(354,31): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(355,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(355,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(356,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(356,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(357,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(357,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(358,23): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(358,15): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\main.cpp(491,45): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+main.obj : error LNK2019: unresolved external symbol __imp_glutInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl callback_motion(int,int)" (?callback_motion@@YAXHH@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl window_display(void)" (?window_display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutMotionFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardUpFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutSpecialUpFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "void __cdecl window_display(void)" (?window_display@@YAXXZ)
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\OpenGL\glew-1.11.0\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Fab\Documents\GitHub\Computacion-Grafica-2019-02\SpaceWars3D\SpaceWars\x64\Debug\SpaceWars.exe : fatal error LNK1120: 17 unresolved externals

@@ -340,7 +340,13 @@ void Player::move()
 				reload_time = 1500;
 			}
 			mover_proyectiles();
-			Player1->Vibrate(30000, 30000);
+			Player1->Vibrate(25000, 25000);
+			Player1->Vibrate(25000, 25000);
+			Player1->Vibrate(25000, 25000);
+			Player1->Vibrate(25000, 25000);
+			Player1->Vibrate(25000, 25000);
+			Player1->Vibrate(25000, 25000);
+			Player1->Vibrate(0, 0);
 		}
 	}
 }
